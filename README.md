@@ -5,11 +5,11 @@ Web technologies used: HTML5, CSS3 and JavaScript
 
 Click the link in **About** section to use the music app
 
-This project is based on 'Build A Music App With Javascript Tutorial' by Dev Ed. The youtube video link - . 
+This project is based on 'Build A Music App With Javascript Tutorial' by Dev Ed. The youtube video link [here](https://www.youtube.com/watch?v=2VJlzeEVL8A) . 
 Also, Dev ed is really a creative developer. I really recommend his videos of web technologies specially Javascript.
 
 ## A sample screenshot of Project
-![Screesshot of GUI](https://github.com/Dev-Daljeet/WeatherApp/blob/main/screenshots/default.jpg?raw=true)
+![Screesshot of Default](https://github.com/Dev-Daljeet/TapMusicApp/blob/main/screenshots/default.jpg?raw=true)
 
 ## Run
 
@@ -23,7 +23,7 @@ Also, Dev ed is really a creative developer. I really recommend his videos of we
 2. Click on index.html and open it with any compatible web browser like Chrome, Edge, Opera or Firefox
 3. You will see the web page with text and colorful pads
      
-# License
+## License
 MIT License
 Copyright (c) 2020 Dev-Daljeet
 
